@@ -1,3 +1,4 @@
+package codedump;
 import java.util.*;
 public class SqrtSeries {
     public static void main(String[] a) {

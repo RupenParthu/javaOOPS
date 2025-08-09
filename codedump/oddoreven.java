@@ -1,3 +1,4 @@
+package codedump;
 import java.util.*;
 public class oddoreven {
     public static void main(String args[]){
